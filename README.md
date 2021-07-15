@@ -47,5 +47,7 @@ Copy and paste the project folder to C:\Users\%USER%\Saved Games\DCS\Mods\tech
 
 # Contact
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
+
 Mail: ygor_ma@hotmail.com
+
 Discord Nickname: Jack Bauer
