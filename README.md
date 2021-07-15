@@ -44,6 +44,7 @@ Copy and paste the project folder to C:\Users\%USER%\Saved Games\DCS\Mods\tech
 - F-45 União Frigate
 - F-47 Dodsworth Frigate
 - A-12 São Paulo Carrier (Ready but still dealing with the model author)
+- P-120 Amazonas Patrol Ship
 
 # Contact
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
