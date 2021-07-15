@@ -38,6 +38,7 @@ Extract, Copy and paste the project folder in C:\Users\%USER%\Saved Games\DCS\Mo
 - Map Classes may be wrong.
 
 # To Come
+- DCS Mission using the entire fleet
 - F-40 Niterói Frigate
 - F-42 Constituição Frigate
 - F-43 Liberal Frigate
