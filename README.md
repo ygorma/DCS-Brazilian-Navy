@@ -1,24 +1,13 @@
 # DCS Brazilian Navy
 Brazilian Navy DCS mod made in collaboration with Henrik Nielsen (Models Author). This mod includes:
 
-- Aircraft Carriers
-
-A-140 Atlântico Multipurpose Aircraft Carrier 
-
-- Landing Ships
-
-G-29 Garcia D'Avila
-
-- Niterói Class Frigates
-
-F-41 Defensora Frigate
-F-44 Independencia Frigate
-
-- Greenhalgh Class Frigates
-
-F-46 Greenhalgh Frigate
-F-48 Bosisio Frigate
-F-49 Rademaker Frigate
+- A-140 Atlântico Multipurpose Aircraft Carrier 
+- G-29 Garcia D'Avila
+- F-41 Defensora Frigate
+- F-44 Independencia Frigate
+- F-46 Greenhalgh Frigate
+- F-48 Bosisio Frigate
+- F-49 Rademaker Frigate
 
 # Models Copyright Disclaimer
 The following models included in this mod were made by Henrik Nielsen which expressly authorized the use of those models within this mod. The models were converted to Digital Combat Simulator by Ygor Montenegro and other people that may contribute to the project. The models are provided "AS IS" without warranty of any kind, express or implied.
