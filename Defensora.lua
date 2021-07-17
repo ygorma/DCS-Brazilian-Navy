@@ -15,7 +15,7 @@ GT.visual.shape = "Defensora";
 GT.visual.shape_dstr = ""
 
 GT.animation_arguments.radar1_rotation = 11;
-GT.radar1_period = -1;
+GT.radar1_period = 10;
 
 -- GENERAL DATA***************************************************************************
 
