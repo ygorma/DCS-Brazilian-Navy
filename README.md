@@ -45,6 +45,7 @@ Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\M
 - F-45 União Frigate
 - F-47 Dodsworth Frigate
 - A-12 São Paulo Carrier (Ready but still dealing with the model author)
+- G-40 Bahía Landing Platform Dock Ship
 - Amazonas Class Patrol Ship
 - Grajaú Class Patrol Ship
 - Macaé Class Patrol Ship
