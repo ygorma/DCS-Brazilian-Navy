@@ -2,7 +2,7 @@
 Brazilian Navy DCS mod made in collaboration with Henrik Nielsen (Models Author). This mod includes:
 
 - A-140 Atlântico Multipurpose Aircraft Carrier 
-- G-29 Garcia D'Avila
+- G-29 Garcia D'Avila Landing Ship
 - F-41 Defensora Frigate
 - F-44 Independencia Frigate
 - F-46 Greenhalgh Frigate
