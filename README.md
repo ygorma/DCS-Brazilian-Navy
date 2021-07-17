@@ -47,7 +47,7 @@ Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\M
 - A-12 São Paulo Carrier (Ready but still dealing with the model author)
 - Amazonas Class Patrol Ship
 - Grajaú Class Patrol Ship
-- Macaé CLass Patrol Ship
+- Macaé Class Patrol Ship
 
 # Contact
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
