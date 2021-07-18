@@ -26,7 +26,7 @@ If you wish to use the models of these Mod in other projects, please contact Hen
 
 https://www.avsim.com/profile/316294-kl791/
 
-# Instalation
+# Installation
 Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\Mods\tech
 
 # Know Issues
