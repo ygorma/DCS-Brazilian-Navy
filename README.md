@@ -44,12 +44,16 @@ Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\M
 - F-43 Liberal Frigate
 - F-45 União Frigate
 - F-47 Dodsworth Frigate
-- A-12 São Paulo Carrier (Ready but still dealing with the model author)
 - G-40 Bahía Landing Platform Dock Ship
 - Amazonas Class Patrol Ship
 - Grajaú Class Patrol Ship
 - Macaé Class Patrol Ship
 - Aratú Class Patrol Ship
+
+# Looking for the São Paulo Aircraft Carrier?
+We decided to do not include the carrier within the mod because Cuesta Brothers have a very nice Clemecenau Class Mod with the São Paulo carrier included. You can find it here:
+
+https://forums.eagle.ru/topic/259421-clemenceau-class-version-004-and-super-etendards-pack-2021-272-by-the-cuesta-brothers/
 
 # Contact
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
