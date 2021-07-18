@@ -51,7 +51,7 @@ Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\M
 - Aratú Class Patrol Ship
 
 # Looking for the São Paulo Aircraft Carrier?
-We decided to do not include the carrier within the mod because Cuesta Brothers have a very nice and well maintained Clemenceau Class Mod with the São Paulo carrier included. You can find it here:
+We decided to do not include the carrier within the mod because the Cuesta Brothers have a very nice and well maintained Clemenceau Class Mod with the São Paulo carrier included. You can find it here:
 
 https://forums.eagle.ru/topic/259421-clemenceau-class-version-004-and-super-etendards-pack-2021-272-by-the-cuesta-brothers/
 
