@@ -20,7 +20,7 @@ The following models included in this mod were made by Henrik Nielsen which expr
 - Rademaker.EDM
 - Garcia.EDM
 
-You are prohibited to distribute, sublicense, and/or sell copies of this Mod, and to permit persons to whom the Mod is furnished to do so.
+You are prohibited to alter, distribute, sublicense, and/or sell copies of this Mod, and to permit persons to whom the Mod is furnished to do so.
 
 If you wish to use the models of these Mod in other projects, please contact Henrik Nielsen (KL791) at AVSIM in the link bellow
 
