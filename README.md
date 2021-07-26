@@ -48,7 +48,6 @@ Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\M
 - Amazonas Class Patrol Ship
 - Grajaú Class Patrol Ship
 - Macaé Class Patrol Ship
-- Aratú Class Patrol Ship
 
 # Looking for the São Paulo Aircraft Carrier?
 We decided to do not include the carrier within the mod because the Cuesta Brothers have a very nice and well maintained Clemenceau Class Mod with the São Paulo carrier included. You can find it here:
