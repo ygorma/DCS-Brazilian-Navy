@@ -1,4 +1,4 @@
--- Fragata Classe Niterói Marinha do Brasil
+-- Fragata Classe Niterói - Marinha do Brasil
 
 -- Defensora
 
@@ -15,7 +15,7 @@ GT.visual.shape = "Defensora";
 GT.visual.shape_dstr = ""
 
 GT.animation_arguments.radar1_rotation = 11;
-GT.radar1_period = -1;
+GT.radar1_period = 10;
 
 -- GENERAL DATA***************************************************************************
 
@@ -51,6 +51,21 @@ GT.exhaust =
 {
 	[1] = { size = 0.655 , pos = {-2, 20, 0} }
 };
+
+--[[
+
+    https://pt.wikipedia.org/wiki/F_Defensora_(F-41)
+
+	1 reparo singelo do canhão Vickers Mk 8 de 4.5 polegadas/55 calibres (114mm); 
+    2 reparos singelos do canhão Bofors de 40 mm/70 Mk3; 
+    1 lançador óctuplo de mísseis superfície-ar Aspide; 
+    um morteiro duplo do foguetes SR-375 BOROC de 375mm e 2 lançadores triplos STWS Mk 1 de torpedos A/S de 324mm; 
+    2 lançadores de mísseis superfície-superfície Exocet MM-40; 
+    e 1 Sistema de Lançamento de Despistadores de Mísseis - SLDM ET/SLQ-3. 
+    Composto por 04 lançadores de 12 células e utiliza foguetes Chaff.
+
+]]--
+
 
 --[[ WEAPON SYSTEMS ****************************************************************************
 
