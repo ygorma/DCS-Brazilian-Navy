@@ -14,7 +14,7 @@ Brazilian Navy DCS mod made in collaboration with Henrik Nielsen (Models Author)
 - P-70 Macaé Class Patrol Ship
 
 # Models Copyright Disclaimer
-The following models included in this mod were made by Henrik Nielsen which expressly authorized the use of those models within this mod. The models were converted to Digital Combat Simulator by Ygor Montenegro and other people that may contribute to the project. The models are provided "AS IS" without warranty of any kind, express or implied.
+The following 3d models included in this mod were made by Henrik Nielsen which expressly authorized the use of those models within this mod. The 3d models were converted to Digital Combat Simulator by Ygor Montenegro and other people that may contribute to the project. The models are provided "AS IS" without warranty of any kind, express or implied.
 
 - Atlantico.EDM
 - Bosisio.EDM
@@ -30,7 +30,7 @@ The following models included in this mod were made by Henrik Nielsen which expr
 
 You are prohibited to alter, distribute, sublicense, and/or sell copies of this Mod, and to permit persons to whom the Mod is furnished to do so.
 
-If you wish to use the models of these Mod in other projects, please contact Henrik Nielsen (KL791) at AVSIM in the link bellow
+If you wish to use the 3d models of these Mod in other projects, please contact Henrik Nielsen (KL791) at AVSIM in the link bellow
 
 https://www.avsim.com/profile/316294-kl791/
 
@@ -40,7 +40,7 @@ Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\M
 # Know Issues
 - Deck not solid (to Players, AI Helicopters can land properly);
 - Missing colision model (Makes all the ships invencible);
-- Missing taxiway/routes/parking of Atlântico;
+- Buggy taxiway/routes/parking of Atlântico;
 - Ship weapons not working;
 - Missing radar animations;
 - Map Classes may be wrong.
@@ -61,6 +61,6 @@ https://forums.eagle.ru/topic/259421-clemenceau-class-version-004-and-super-eten
 # Contact
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
 
-Mail: ygor_ma@hotmail.com
-
 Discord Nickname: Jack Bauer
+
+Mail: ygor_ma@hotmail.com
