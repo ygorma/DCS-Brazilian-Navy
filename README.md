@@ -30,7 +30,7 @@ The following 3d models included in this mod were made by Henrik Nielsen which e
 
 You are prohibited to alter, distribute, sublicense, and/or sell copies of this Mod, and to permit persons to whom the Mod is furnished to do so.
 
-If you wish to use the 3d models of these Mod in other projects, please contact Henrik Nielsen (KL791) at AVSIM in the link bellow
+If you wish to use the 3d models of this Mod in other projects, please contact Henrik Nielsen (KL791) at AVSIM in the link bellow
 
 https://www.avsim.com/profile/316294-kl791/
 
