@@ -1,4 +1,4 @@
--- Fragata Classe Niterói Marinha do Brasil
+-- Navio Padtrulha Classe Amazonas - Marinha do Brasil
 
 -- Amazonas
 
