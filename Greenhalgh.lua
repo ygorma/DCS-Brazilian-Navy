@@ -82,7 +82,7 @@ GT.WS.searchRadarFrequencies = {{50.0e6, 54.0e6}, {2.0e9, 2.2e9}}
 
 
 GT.Name = "Greenhalgh"
-GT.DisplayName = _("Greenhalgh Frigate")
+GT.DisplayName = _("Greenhalgh Class Frigate")
 GT.Rate = 5500
 
 GT.Sensors = {  OPTIC = {"long-range naval optics", "long-range naval LLTV", "long-range naval FLIR"},
