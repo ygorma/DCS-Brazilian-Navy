@@ -20,7 +20,7 @@ GT.radar1_period = 10;
 
 -- GENERAL DATA ***************************************************************************
 
-GT.life = 2000;
+GT.life = 800;
 GT.mass = 7.25e+006;
 GT.max_velocity = 15.4333
 GT.race_velocity = 15.4333

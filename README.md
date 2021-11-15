@@ -4,20 +4,18 @@ Brazilian Navy DCS mod made in collaboration with Henrik Nielsen (Models Author)
 - A-140 Atlântico Multipurpose Aircraft Carrier 
 - G-40 Bahía Landing Platform Dock Ship
 - G-29 Garcia D'Avila Landing Ship
-- F-41 Defensora Frigate
-- F-44 Independencia Frigate
-- Greenhalgh Class Patrol Frigate
-- Amazonas Class Patrol Ship
-- P-40 Grajaú Class Patrol Ship
+- Niterói Class Frigate (And its variants)
+- Greenhalgh Class Patrol Frigate (And its variants)
+- Amazonas Class Patrol Ship (And its variants)
 - P-70 Macaé Class Patrol Ship
+- P-40 Grajaú Class Patrol Ship
 
 # Models Copyright Disclaimer
 The following 3d models included in this mod were made by Henrik Nielsen which expressly authorized the use of those models within this mod. The 3d models were converted to Digital Combat Simulator by Ygor Montenegro and other people that may contribute to the project. The models are provided "AS IS" without warranty of any kind, express or implied.
 
 - Atlantico.EDM
-- Defensora.EDM
+- Niteroi.EDM
 - Greenhalgh.EDM
-- Independencia.EDM
 - Garcia.EDM
 - Bahia.EDM
 - Amazonas.EDM
@@ -34,13 +32,14 @@ https://www.avsim.com/profile/316294-kl791/
 Extract, Copy and paste the project folder in C:\Users\%USER%\Saved Games\DCS\Mods\tech
 
 # Know Issues
-- Buggy taxiway/routes/parking of Atlântico;
+- Buggy logical part of taxiway, routes and parking of Atlântico;
 - Ship weapons not working;
-- Missing radar animations;
+- Missing radar, flags, and engines animations;
 - Map Classes may be wrong.
 
 # To Come
 - DCS Mission using the entire fleet
+- Tupi Class, Tikuna Class, Riachuelo Class Submarines
 
 # Looking for the São Paulo Aircraft Carrier?
 We decided to do not include the carrier within the mod because the Cuesta Brothers have a very nice and well maintained Clemenceau Class Mod with the São Paulo carrier included. You can find it here:
