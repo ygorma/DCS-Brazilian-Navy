@@ -29,7 +29,7 @@ If you wish to use the 3d models of this Mod in other projects, please contact H
 https://www.avsim.com/profile/316294-kl791/
 
 # Installation
-Extract, Copy and paste the project folder in C:\Users\%USER%\Saved Games\DCS\Mods\tech
+Extract, Copy and paste the project folder in C:\Users\\%USER%\Saved Games\DCS\Mods\tech
 
 # Know Issues
 - Buggy logical part of taxiway, routes and parking of Atlântico;
