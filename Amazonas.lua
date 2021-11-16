@@ -18,7 +18,7 @@ GT.visual.shape_dstr = ""
 -- GENERAL DATA***************************************************************************
 
 
-GT.life = 2000;
+GT.life = 600;
 GT.mass = 7.25e+006;
 GT.max_velocity = 15.4333
 GT.race_velocity = 15.4333
@@ -82,7 +82,7 @@ GT.WS.searchRadarFrequencies = {{50.0e6, 54.0e6}, {2.0e9, 2.2e9}}
 
 
 GT.Name = "Amazonas"
-GT.DisplayName = _("Amazonas Patrol Ship")
+GT.DisplayName = _("Amazonas Class Patrol Ship")
 GT.Rate = 5500
 
 GT.Sensors = {  OPTIC = {"long-range naval optics", "long-range naval LLTV", "long-range naval FLIR"},
