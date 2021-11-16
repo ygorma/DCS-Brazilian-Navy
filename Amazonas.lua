@@ -18,7 +18,7 @@ GT.visual.shape_dstr = ""
 -- GENERAL DATA***************************************************************************
 
 
-GT.life = 2000;
+GT.life = 600;
 GT.mass = 7.25e+006;
 GT.max_velocity = 15.4333
 GT.race_velocity = 15.4333
