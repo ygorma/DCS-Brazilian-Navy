@@ -4,6 +4,7 @@
 
 mount_vfs_model_path	(current_mod_path.."/Shapes")
 mount_vfs_texture_path  (current_mod_path.."/Textures/Greenhalgh.zip")
+mount_vfs_liveries_path (current_mod_path.."/Liveries")
 
 GT = {};
 GT_t.ws = 0;
@@ -17,7 +18,7 @@ GT.visual.shape_dstr = ""
 -- GENERAL DATA***************************************************************************
 
 
-GT.life = 2000;
+GT.life = 800;
 GT.mass = 7.25e+006;
 GT.max_velocity = 15.4333
 GT.race_velocity = 15.4333
@@ -81,7 +82,7 @@ GT.WS.searchRadarFrequencies = {{50.0e6, 54.0e6}, {2.0e9, 2.2e9}}
 
 
 GT.Name = "Greenhalgh"
-GT.DisplayName = _("Greenhalgh Frigate")
+GT.DisplayName = _("Greenhalgh Class Frigate")
 GT.Rate = 5500
 
 GT.Sensors = {  OPTIC = {"long-range naval optics", "long-range naval LLTV", "long-range naval FLIR"},

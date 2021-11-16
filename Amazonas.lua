@@ -1,9 +1,10 @@
--- Fragata Classe Niterói Marinha do Brasil
+-- Navio Padtrulha Classe Amazonas - Marinha do Brasil
 
 -- Amazonas
 
 mount_vfs_model_path	(current_mod_path.."/Shapes")
 mount_vfs_texture_path  (current_mod_path.."/Textures/Amazonas.zip")
+mount_vfs_liveries_path (current_mod_path.."/Liveries")
 
 GT = {};
 GT_t.ws = 0;
