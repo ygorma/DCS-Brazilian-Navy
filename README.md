@@ -46,9 +46,12 @@ We decided to do not include the carrier within the mod because the Cuesta Broth
 
 https://forums.eagle.ru/topic/259421-clemenceau-class-version-004-and-super-etendards-pack-2021-272-by-the-cuesta-brothers/
 
+# ED Forum
+Latest news here: https://forums.eagle.ru/topic/277400-brazilian-navy/
+
 # Contact
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
 
 Discord Nickname: Jack Bauer
-
+ED Forum: https://forums.eagle.ru/profile/109615-jack-bauer/
 Mail: ygor_ma@hotmail.com
