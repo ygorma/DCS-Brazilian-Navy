@@ -53,5 +53,7 @@ Latest news here: https://forums.eagle.ru/topic/277400-brazilian-navy/
 Fell free to join in our Discord https://discord.gg/fy2HjSUN3x and contribute to the project.
 
 Discord Nickname: Jack Bauer
+
 ED Forum: https://forums.eagle.ru/profile/109615-jack-bauer/
+
 Mail: ygor_ma@hotmail.com
