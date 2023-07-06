@@ -41,7 +41,7 @@ GT.distFindObstacles = 1048.6;
 GT.numParking = 1;
 GT.Helicopter_Num_ = 1;
 
-GT.Landing_Point = {-56.5, 5.6, 0.0}
+GT.Landing_Point = {-56.5, 12.5, 0.0}
 
 GT.airWeaponDist = 40000
 GT.airFindDist = 70000
