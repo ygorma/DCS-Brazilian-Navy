@@ -44,10 +44,10 @@ GT.distFindObstacles = 1048.6;
 GT.numParking = 1;
 GT.Helicopter_Num_ = 1;
 
-GT.Landing_Point = {-34, 7.1, 0.0}
+GT.Landing_Point = {-35, 7.1, 0.0}
 
-GT.airWeaponDist = 30000
-GT.airFindDist = 70000
+GT.airWeaponDist = 19000
+GT.airFindDist = 25000
 GT.exhaust =
 {
 	[1] = { size = 0.655 , pos = {-2, 20, 0} }
@@ -80,7 +80,6 @@ GT.WS.searchRadarFrequencies = {{50.0e6, 54.0e6}, {2.0e9, 2.2e9}}
 ws = GT_t.inc_ws();
 GT.WS[ws] = {};
 set_recursive_metatable(GT.WS[ws], GT_t.WS_t.ship_AK176);
-GT.WS[ws].board = 2;
 GT.WS[ws].center = 'mk8_base_conn';
 GT.WS[ws].drawArgument1 = 13;
 GT.WS[ws].drawArgument2 = 14;
@@ -88,6 +87,40 @@ GT.WS[ws].angles = { {math.rad(135), math.rad(-135), math.rad(-5), math.rad(50)}
 GT.WS[ws].reference_angle_Y = math.rad(0);
 GT.WS[ws].LN[1].fireAnimationArgument = 118;
 GT.WS[ws].LN[1].BR[1].connector_name = 'mk8_cannon_conn';
+
+-- Bofors 40mm gun
+ws = GT_t.inc_ws();
+GT.WS[ws] = {};
+set_recursive_metatable(GT.WS[ws], GT_t.WS_t.Bofors_40mm);
+GT.WS[ws].center = 'bofors_1_base_conn';
+GT.WS[ws].drawArgument1 = 21;
+GT.WS[ws].drawArgument2 = 22;
+GT.WS[ws].angles = { {math.rad(180), math.rad(0), math.rad(0), math.rad(80)} };
+GT.WS[ws].reference_angle_Y = math.rad(0);
+GT.WS[ws].LN[1].fireAnimationArgument = 125;
+GT.WS[ws].LN[1].BR[1].connector_name = 'bofors_1_cannon_conn';
+GT.WS[ws].type = 3;
+GT.WS[ws].distanceMax = 4000
+GT.WS[ws].max_trg_alt = 3000
+GT.WS[ws].reflection_limit = 1.1
+GT.WS[ws].reactionTime = 2.0
+
+-- Bofors 40mm gun
+ws = GT_t.inc_ws();
+GT.WS[ws] = {};
+set_recursive_metatable(GT.WS[ws], GT_t.WS_t.Bofors_40mm);
+GT.WS[ws].center = 'bofors_2_base_conn';
+GT.WS[ws].drawArgument1 = 23;
+GT.WS[ws].drawArgument2 = 24;
+GT.WS[ws].angles = { {math.rad(0), math.rad(180), math.rad(0), math.rad(80)} };
+GT.WS[ws].reference_angle_Y = math.rad(0);
+GT.WS[ws].LN[1].fireAnimationArgument = 125;
+GT.WS[ws].LN[1].BR[1].connector_name = 'bofors_2_cannon_conn';
+GT.WS[ws].type = 3;
+GT.WS[ws].distanceMax = 4000
+GT.WS[ws].max_trg_alt = 3000
+GT.WS[ws].reflection_limit = 1.1
+GT.WS[ws].reactionTime = 2.0
 
 -- Lançador óctuplo de mísseis superfície-ar Aspide
 ws = GT_t.inc_ws();
